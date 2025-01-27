@@ -29,7 +29,7 @@ const [isMobile, setIsMobile] = useState(false);
                        <Link to="/" className="nav-link active">Home AB CHANGES</Link>
                    </li>
                    <li>
-                       <Link to="/usermaster" className="nav-link">User Master</Link>
+                       <Link to="/usermaster" className="nav-link">User Master AK changes</Link>
                    </li>
                    <li>
                        <Link to="/productcatagorymaster" className="nav-link">Product Master AB CHANGES</Link>
