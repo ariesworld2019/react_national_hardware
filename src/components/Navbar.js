@@ -26,7 +26,7 @@ const [isMobile, setIsMobile] = useState(false);
                <h3 className="logo">National Hardware</h3>
                <ul className={isMobile ? "nav-links-mobile" : "nav-links"}>
                    <li> 
-                       <Link to="/" className="nav-link active">Home Image Mahadev 4th changes</Link>
+                       <Link to="/" className="nav-link active">Home Image Mahadev 5th changes</Link>
                    </li>
                    <li>
                        <Link to="/usermaster" className="nav-link">User Master</Link>
