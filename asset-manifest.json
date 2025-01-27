@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_national_hardware/static/css/main.be52fbee.css",
+    "main.js": "/react_national_hardware/static/js/main.493f5c62.js",
+    "static/js/488.77976aa2.chunk.js": "/react_national_hardware/static/js/488.77976aa2.chunk.js",
+    "index.html": "/react_national_hardware/index.html",
+    "main.be52fbee.css.map": "/react_national_hardware/static/css/main.be52fbee.css.map",
+    "main.493f5c62.js.map": "/react_national_hardware/static/js/main.493f5c62.js.map",
+    "488.77976aa2.chunk.js.map": "/react_national_hardware/static/js/488.77976aa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be52fbee.css",
+    "static/js/main.493f5c62.js"
+  ]
+}
