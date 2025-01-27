@@ -40,6 +40,9 @@ const [isMobile, setIsMobile] = useState(false);
                    <li>                    
                        <Link to="/itemmaster" className="nav-link">NEW Master</Link>
                    </li>
+                   <li>                    
+                       <Link to="/itemmaster" className="nav-link">NEW2 Master</Link>
+                   </li>
                </ul>
                <div
                    className="mobile-menu-icon"
