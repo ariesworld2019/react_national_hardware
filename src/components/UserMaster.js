@@ -460,7 +460,7 @@ const Home = () => {
                                     fontSize: '30px'
                                 }}
                             >
-                                User Master Records12
+                                User Master Records
                             </Typography>
 
                             {/* Select the data select method */}
